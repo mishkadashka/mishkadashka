@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mishka</h1>
 <h3 align="center">A passionate frontend developer from Mongolia🇲🇳</h3>
-<img align="right" alt="coding" width="400" src="https://tenor.com/view/programming-gif-25868426">
+<img align="right" alt="coding" width="400" src="[https://tenor.com/view/programming-gif-25868426](https://tenor.com/view/programming-gif-25868426)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishkadashka&label=Profile%20views&color=0e75b6&style=flat" alt="mishkadashka" /> </p>
 
