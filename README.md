@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mishka</h1>
 <h3 align="center">A passionate frontend developer from Mongolia🇲🇳</h3>
-<a url="https://tenor.com/view/kroppa-digital-socialmedia-mothersday-developer-gif-21768300"></a>
+<a src="https://tenor.com/view/kroppa-digital-socialmedia-mothersday-developer-gif-21768300"></a>
 
 - 🌱 I’m currently learning **node**
 
