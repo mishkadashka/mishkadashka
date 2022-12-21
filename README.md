@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mishka</h1>
 <h3 align="center">A passionate frontend developer from Mongolia🇲🇳</h3>
-<img align="right" alt="coding" width="400" src="[https://tenor.com/view/programming-gif-25868426](https://tenor.com/view/programming-gif-25868426)">
+<div class="tenor-gif-embed" data-postid="25868426" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/programming-gif-25868426">Programming GIF</a>from <a href="https://tenor.com/search/programming-gifs">Programming GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishkadashka&label=Profile%20views&color=0e75b6&style=flat" alt="mishkadashka" /> </p>
 
